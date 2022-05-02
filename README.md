@@ -7,7 +7,7 @@ Starting from : May 2, 2022
 
 ## Contents
 
-- <b>Project 1</b> - [Silly Name Generator: Generating Pseudonyms]
+- <b>Project 1</b> - [Silly Name Generator: Generating Pseudonyms](https://github.com/mK-zero/Impractical-Python-Projects/tree/main/1_silly-name-generator)
 
 <p align="center">
 Last Updated : May 2, 2022
