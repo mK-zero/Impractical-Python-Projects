@@ -9,10 +9,12 @@ Starting from : May 2, 2022
 
 - <b>Project 1</b> - [Silly Name Generator: Generating Pseudonyms](https://github.com/mK-zero/Impractical-Python-Projects/tree/main/1_silly-name-generator)
 
+- <b>Project 15</b> - [Counting Syllables](https://github.com/mK-zero/Impractical-Python-Projects/tree/main/15_counting-syllables)
+
 - <b>Project 20</b> - [Simulating Retirement Lifetimes](https://github.com/mK-zero/Impractical-Python-Projects/tree/main/20_simulating-retirement-lifetimes)
 
 <p align="center">
-Last Updated : May 6, 2022
+Last Updated : May 11, 2022
 </p>
 
 <p align="center">
